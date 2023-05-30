@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "index",
+    "path": "/",
+    "title": "タイトル",
+    "menuname": "トップ",
+    "description": "インデックスページ。"
+  },
+  {
+    "slug": "hoge",
+    "path": "/hoge",
+    "title": "hogeページのタイトル",
+    "menuname": "hoge",
+    "description": "hogeページディスクリプション"
+  },
+
+  {
+    "slug": "aaa",
+    "path": "/hoge/aaa",
+    "title": "hogeの下の階層aaaのページ",
+    "menuname": "aaa",
+    "description": "aaaページディスクリプション"
+  }
+  {
+    "slug": "hoga",
+    "path": "/hoga",
+    "title": "hogaの下の階層hogaのページ",
+    "menuname": "hoga",
+    "description": "hogaページディスクリプション"
+  }
+]
