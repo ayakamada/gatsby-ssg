@@ -13,14 +13,13 @@
     "menuname": "hoge",
     "description": "hogeページディスクリプション"
   },
-
   {
     "slug": "aaa",
     "path": "/hoge/aaa",
     "title": "hogeの下の階層aaaのページ",
     "menuname": "aaa",
     "description": "aaaページディスクリプション"
-  }
+  },
   {
     "slug": "hoga",
     "path": "/hoga",
