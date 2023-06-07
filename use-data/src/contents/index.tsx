@@ -4,7 +4,7 @@ import type { IPost } from "@/types/Ipost";
 
 const IndexPage: React.FC<PageProps> = ({ pageContext }) => {
   // console.log(pageContext.page);
-  const { page } = pageContext as IPost;
+  const { page } = pageContext as { page: IPost };
 
   return (
     <>
